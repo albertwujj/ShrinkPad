@@ -25,9 +25,9 @@ OneNote. Often, I would manually scale down my own writing, which is a tedious p
      * This makes the app much smoother, as the condition being met usually means the user is 
  continuing the same "flow" of writing
  
- * If the new stroke is very far from the last point drawn, automatically resize
-
  * Height Option: If the height option is selected, resize all strokes to the same median height as the first set of strokes resized
+ 
+ * If the new stroke is very far from the last point drawn, automatically resize
 
  * Also press R or right click to resize
 
