@@ -12,7 +12,7 @@ OneNote. Often, I would manually scale down my own writing, which is a tedious p
 
 
 
-### List of All Features: ###
+### List of all features: ###
 
  * Automatically resize all strokes not already resized, after a certain time period of no pen contact
      * Resize percentage, and time period can be set using a slider
