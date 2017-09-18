@@ -5,6 +5,11 @@ The strokes will intelligently resize themselves by a certain percentage after a
 certain amount of time has passed without pen input, or after one of several other conditions. 
 Developed solely as a prototype app to encourage implementation in Microsoft OneNote and other pen input applications.
 
+Conception:
+I always found myself needing more writing space when doing homework/taking notes with the stylus in 
+OneNote. Often, I would manually scale down my own writing, which is a tedious process in OneNote. I thought, what if there was a feature where your writing would scale down automatically?
+
+
 
 LIST OF ALL FEATURES
 
