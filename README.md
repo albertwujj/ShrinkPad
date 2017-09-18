@@ -12,18 +12,20 @@ OneNote. Often, I would manually scale down my own writing, which is a tedious p
 
 
 
-### LIST OF ALL FEATURES ###
+### List of All Features: ###
 
- * Automatically resize all strokes not already resized, after a certain time period of no pen contact. 
-     * Resize percentage, and time period can be set using a slider.
+ * Automatically resize all strokes not already resized, after a certain time period of no pen contact
+     * Resize percentage, and time period can be set using a slider
 
- * Resizing is intelligent, app resizes around a certain reference point: the top left corner of the set of all strokes 
- to be resized.
+ * Resizes around a certain reference point: the top left corner of the set of all strokes 
+ to be resized
 
- * If a new stroke is not within the (un-resized) bounding rectangle of the last resized set of strokes, 
- but close enough to the last point, keep the previous reference point.
+ * Intelligent resizing: If a new stroke is not within the (un-resized) bounding rectangle of the last resized set of strokes, 
+ but close enough to the last point drawn, keep the previous reference point
      * This makes the app much smoother, as the condition being met usually means the user is 
  continuing the same "flow" of writing
+ 
+ * If the new stroke is very far from the last point drawn, automatically resize
 
  * If the height option is selected, resize all strokes to the same median height as the first set of strokes resized
 
