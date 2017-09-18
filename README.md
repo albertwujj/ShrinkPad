@@ -27,7 +27,7 @@ OneNote. Often, I would manually scale down my own writing, which is a tedious p
  
  * If the new stroke is very far from the last point drawn, automatically resize
 
- * If the height option is selected, resize all strokes to the same median height as the first set of strokes resized
+ * Height Option: If the height option is selected, resize all strokes to the same median height as the first set of strokes resized
 
  * Also press R or right click to resize
 
