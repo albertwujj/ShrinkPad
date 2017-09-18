@@ -7,7 +7,7 @@ Developed solely as a prototype app to encourage implementation in Microsoft One
 
 
 LIST OF ALL FEATURES
-```
+
     * Automatically resize all strokes not already resized, after a certain time period of no pen contact. 
     ** Resize percentage, and time period can be set using a slider.
     
@@ -30,5 +30,4 @@ LIST OF ALL FEATURES
     * Upload a file as a background image
     
     * Change pen color
-```
     
