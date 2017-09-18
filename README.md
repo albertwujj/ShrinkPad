@@ -1,17 +1,18 @@
 
 
-Description: A Windows 10 app that allows the user to draw strokes, but with a catch: 
+### Description: ###
+A Windows 10 app that allows the user to draw strokes, but with a catch: 
 The strokes will intelligently resize themselves by a certain percentage after a 
 certain amount of time has passed without pen input, or after one of several other conditions. 
 Developed solely as a prototype app to encourage implementation in Microsoft OneNote and other pen input applications.
 
-Conception:
+### Conception: ###
 I always found myself needing more writing space when doing homework/taking notes with the stylus in 
 OneNote. Often, I would manually scale down my own writing, which is a tedious process in OneNote. I thought, what if there was a feature where your writing would scale down automatically?
 
 
 
-LIST OF ALL FEATURES
+### LIST OF ALL FEATURES ###
 
  * Automatically resize all strokes not already resized, after a certain time period of no pen contact. 
      * Resize percentage, and time period can be set using a slider.
