@@ -1,4 +1,4 @@
-# (My first program)
+## (My first program)
 
 ### Conception: ###
 I always found myself needing more writing space when doing homework/taking notes with the stylus in 
